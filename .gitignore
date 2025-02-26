@@ -1,0 +1,8 @@
+# 忽略大文件和临时文件
+models/*
+datasets/*
+*.pt
+*.bin
+*.h5
+__pycache__/
+*.pyc
